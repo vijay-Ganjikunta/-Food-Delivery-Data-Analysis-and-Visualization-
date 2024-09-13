@@ -1,6 +1,5 @@
-# -Food-Delivery-Data-Analysis-and-Visualization-
 
-# **Food Delivery Data Analysis and Visualization using Power BI**
+# **Food Delivery Data Analysis and Visualization**
 
 ## **Problem Statement:**
 The food delivery industry is rapidly evolving, and companies need real-time insights to understand their market performance, customer behavior, and regional trends. This project aims to analyze the performance of a food delivery company using various KPIs, providing detailed insights into sales, customer satisfaction, and city-based metrics.
