@@ -36,13 +36,13 @@ The food delivery industry is rapidly evolving, and companies need real-time ins
 
 ---
 
-## **Findings and Insights:**
-
-- Strong performance in **Tirupati** and **Bangalore**, showing higher sales and engagement compared to other regions.
-- **Veg and Non-Veg categories** dominate sales, contributing significantly to the total revenue.
-- The **2018 sales peak** followed by a drop indicates a need to analyze external factors or changes in the market.
-- **User engagement metrics** reveal a higher retention rate for specific age groups and regions.
-- **Gained/Lost customer analysis:** Gained and lost customers based on gender. Noted that lost customers are higher in specific demographics.
+## **Key Insights:**
+__# The city of Tirupati leads in sales, boasting a remarkable $43 million.
+__# Sales in 2019 peaked at $336 million, however, in 2020, they saw a decline to $142 million, marking a significant decrease of over 50%.
+__# Our user base predominantly falls within the age bracket of 22-25.
+__# Despite losing 33,000 customers, we've managed to gain 12,000 new ones.
+__# Bikaner holds the highest number of active users, totaling 1,700.
+__# Veg and Non-Veg categories dominate sales, contributing significantly to the total revenue.
 
 ---
 
