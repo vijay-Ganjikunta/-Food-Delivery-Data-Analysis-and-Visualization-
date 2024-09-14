@@ -34,7 +34,7 @@ The food delivery industry is rapidly evolving, and companies need real-time ins
    - **Rating Count by City:** Showcased ratings from different regions.
    - **Users by Age:** Visualized the users in terms of their age.
 
-** Key Insights:**
+## ** Key Insights:**
 
 - The city of Tirupati leads in sales, boasting a remarkable $43 million.
 - Sales in 2019 peaked at $336 million, however, in 2020, they saw a decline to $142 million, marking a significant decrease of over 50%.
