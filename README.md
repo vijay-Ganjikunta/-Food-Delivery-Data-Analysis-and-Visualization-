@@ -34,15 +34,15 @@ The food delivery industry is rapidly evolving, and companies need real-time ins
    - **Rating Count by City:** Showcased ratings from different regions.
    - **Users by Age:** Visualized the users in terms of their age.
 
----
+** Key Insights:**
 
-## **Key Insights:**
-_  The city of Tirupati leads in sales, boasting a remarkable $43 million.
-_  Sales in 2019 peaked at $336 million, however, in 2020, they saw a decline to $142 million, marking a significant decrease of over 50%.
-_  Our user base predominantly falls within the age bracket of 22-25.
-_  Despite losing 33,000 customers, we've managed to gain 12,000 new ones.
-_  Bikaner holds the highest number of active users, totaling 1,700.
-_  Veg and Non-Veg categories dominate sales, contributing significantly to the total revenue.
+- The city of Tirupati leads in sales, boasting a remarkable $43 million.
+- Sales in 2019 peaked at $336 million, however, in 2020, they saw a decline to $142 million, marking a significant decrease of over 50%.
+- Our user base predominantly falls within the age bracket of 22-25.
+- Despite losing 33,000 customers, we've managed to gain 12,000 new ones.
+- Bikaner holds the highest number of active users, totaling 1,700.
+
+
 
 ---
 
